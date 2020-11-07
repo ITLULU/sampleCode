@@ -2,9 +2,6 @@ import os
 from string import atoi
 from itertools import islice
 import sys, getopt, time
-import psutil
-import commands
-import re
 import os
 '''
 this python script is used for read result folder
